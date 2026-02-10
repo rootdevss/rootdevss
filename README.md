@@ -25,13 +25,23 @@ The languages that I work with:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rootdevss&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rootdevss&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootdevss&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rootdevss&theme=radical" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rootdevss&theme=radical" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rootdevss&theme=radical" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rootdevss&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rootdevss&theme=radical" alt="Productive Time" />
+</p>
 
 ## 📫 How to Reach Me
 
