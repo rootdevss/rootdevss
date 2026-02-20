@@ -45,7 +45,7 @@ The languages that I work with:
 
 ## 📫 How to Reach Me
 
-[![Discord](https://img.shields.io/badge/Discord-ppsycheya-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-novefoids-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 ---
 
